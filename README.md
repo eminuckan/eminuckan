@@ -66,8 +66,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/eminuckan/eminuckan/output/snake.svg" alt="Snake animation" />
 
 ###
